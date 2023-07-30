@@ -1,3 +1,5 @@
+// index.js (or any other file where you have these export statements)
+
 export { default as Ecommerce } from './Ecommerce';
 export { default as Kanban } from './Kanban';
 export { default as Orders } from './Orders';
